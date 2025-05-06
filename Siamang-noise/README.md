@@ -32,15 +32,13 @@ directory, including:
 
 ## Analysis Workflow
 
-1.  **Data Compilation**: Distance data is compiled from Excel files in
-    the `Distance` subdirectory.
-2.  **Data Transformation**: Data is reshaped from wide to long format
-    and recoded for better interpretability.
-3.  **Modeling**: Mixed-effects models are defined to evaluate the
+1.  **Data Compilation and Transformation**: Distance data is compiled
+    from Excel files in the `Distance` subdirectory.
+2.  **Modeling**: Mixed-effects models are defined to evaluate the
     effects of playback conditions.
-4.  **Diagnostics**: Residual simulations and diagnostic plots are
+3.  **Diagnostics**: Residual simulations and diagnostic plots are
     generated to assess model performance.
-5.  **Visualization**: Model coefficients and other results are
+4.  **Visualization**: Model coefficients and other results are
     visualized using `sjPlot` and `ggpubr`.
 
 <figure>

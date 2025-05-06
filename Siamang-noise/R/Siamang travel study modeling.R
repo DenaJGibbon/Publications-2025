@@ -92,6 +92,7 @@ sjPlot::plot_model(Model1.nore, sort.est = TRUE, vline.color = "red", show.value
 
 ModelSummary <- summary(Model1)
 
+#For every one-unit increase in the independent variable,
+# our dependent variable increases by a factor of about 3.33, or 33% for traffic.
 exp(ModelSummary$coefficients[2:5,1])
 
-#For every one-unit increase in the independent variable, our dependent variable increases by a factor of about 1.22, or 22%.

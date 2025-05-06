@@ -43,9 +43,10 @@ directory, including:
 
 <figure>
 <img src="data/modeloutput.png"
-alt="Estimated effects of different playback conditions on the log-transformed distance traveled" />
-<figcaption aria-hidden="true">Estimated effects of different playback
-conditions on the log-transformed distance traveled</figcaption>
+alt="Figure. Estimated effects of different playback conditions on the log-transformed distance traveled" />
+<figcaption aria-hidden="true">Figure. Estimated effects of different
+playback conditions on the log-transformed distance
+traveled</figcaption>
 </figure>
 
 ## Citation

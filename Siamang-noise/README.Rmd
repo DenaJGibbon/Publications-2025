@@ -42,6 +42,9 @@ The project uses data stored in the `data/SpecificTravelandPlaybackData` directo
 4. **Diagnostics**: Residual simulations and diagnostic plots are generated to assess model performance.
 5. **Visualization**: Model coefficients and other results are visualized using `sjPlot` and `ggpubr`.
 
+![Estimated effects of different playback conditions on the log-transformed distance traveled](data/modeloutput.png)
+
+
 ## Citation
 
 If you use this project in your research, please cite the following work (currently under review):

@@ -43,6 +43,13 @@ directory, including:
 5.  **Visualization**: Model coefficients and other results are
     visualized using `sjPlot` and `ggpubr`.
 
+<figure>
+<img src="data/modeloutput.png"
+alt="Estimated effects of different playback conditions on the log-transformed distance traveled" />
+<figcaption aria-hidden="true">Estimated effects of different playback
+conditions on the log-transformed distance traveled</figcaption>
+</figure>
+
 ## Citation
 
 If you use this project in your research, please cite the following work

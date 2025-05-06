@@ -7,10 +7,10 @@
 <!-- badges: end -->
 
 The goal of **Siamang-noise** is to analyze the impact of various
-playback conditions on the movement behavior of Siamangs. This project
+playback conditions on the movement behavior of siamangs. This project
 uses mixed-effects modeling and other statistical techniques to evaluate
 the effects of different noise conditions on the distances traveled by
-Siamangs.
+siamangs.
 
 ## Features
 
@@ -52,8 +52,8 @@ conditions on the log-transformed distance traveled</figcaption>
 
 ## Citation
 
-If you use this project in your research, please cite the following work
-(currently under review):
+If you use this project in your research, please cite the following
+work:
 
 D’Agostino, J., Clink, D. J., Abdullah, A., & Spehar, S. (under review).
 Siamangs (*Symphalangus syndactylus*) modify travel behavior in response
